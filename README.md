@@ -1,4 +1,4 @@
-# Aditya Kumar — SDE-1 Portfolio
+# Aditya Kumar — Portfolio
 
 This repository hosts my personal portfolio website developed using **HTML, CSS, and JavaScript**.  
 The portfolio is designed to present my skills, projects, and research experience in a clean and recruiter-friendly manner, specifically for **Software Development Engineer (SDE-1)** roles.
