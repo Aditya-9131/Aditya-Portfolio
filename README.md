@@ -14,7 +14,7 @@ The portfolio is designed to present my skills, projects, and research experienc
 - Git & GitHub  
 
 ### 🌐 Live Portfolio
-🔗 *https://github.com/Aditya-9131/Aditya-Portfolio/tree/main*
+🔗 **
 
 ### 📄 Resume
 🔗 *https://drive.google.com/file/d/1quHklqF9vLHdwgcO5VLhBiOYGgyf8FKP/view?usp=sharing*
